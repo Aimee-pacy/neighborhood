@@ -1,4 +1,4 @@
-## My Neighborhood   
+## Yo-Neighborhood   
 Aimee Pacifique ISHIMWE
 ### Description  
 This is a neighborhood app where communities come together to greet newcomers, exchange recommendations, and read the latest local news. Where neighbors support local businesses and get updates about their neighborhood.
