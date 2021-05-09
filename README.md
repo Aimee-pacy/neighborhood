@@ -1,6 +1,5 @@
 ## My Neighborhood   
-Cynthia Umutoniwabo
-
+Aimee Pacifique ISHIMWE
 ### Description  
 This is a neighborhood app where communities come together to greet newcomers, exchange recommendations, and read the latest local news. Where neighbors support local businesses and get updates about their neighborhood.
 
@@ -23,10 +22,10 @@ This is a neighborhood app where communities come together to greet newcomers, e
 No issues known at this time!   
 
 ### Contact Information  
-If you have any question or contributions, please email me at [ucynthy13@gmail.com]  
+If you have any question or contributions, please email me at [ishimwefique@gmail.com]  
 
 ### License  
-Copyright (c) [2020] [Cynthia Umutoniwabo]
+Copyright (c) [2020] [Aimee Pacifique ISHIMWE]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
