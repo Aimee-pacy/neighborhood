@@ -29,12 +29,12 @@ MODE=config("MODE", default="dev")
 SECRET_KEY = config('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = config('DEBUG', default=False, cast=bool)
+DEBUG = config('DEBUG', default=True, cast=bool)
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 cloudinary.config( 
-  cloud_name="ucynthy12", 
+  cloud_name="Aimee-pacy", 
   api_key="665653842125479",
   api_secret="gtDPJAZGiR3JAizrf6Qk7DTL6Lg",
   secure =True,
@@ -118,6 +118,7 @@ else:
 
 db_from_env = dj_database_url.config(conn_max_age=500)
 DATABASES['default'].update(db_from_env)
+
 
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
 
