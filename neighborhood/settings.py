@@ -34,7 +34,7 @@ DEBUG = config('DEBUG', default=True, cast=bool)
 ALLOWED_HOSTS = ['*']
 
 cloudinary.config( 
-  cloud_name="Aimee-pacy", 
+  cloud_name="disjziiyk", 
   api_key="333544546273919",
   api_secret="cJYbtNm8CvU10dtIslrVr8Odfoc",
   secure =True,
