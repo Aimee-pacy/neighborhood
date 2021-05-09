@@ -35,8 +35,8 @@ ALLOWED_HOSTS = ['*']
 
 cloudinary.config( 
   cloud_name="Aimee-pacy", 
-  api_key="665653842125479",
-  api_secret="gtDPJAZGiR3JAizrf6Qk7DTL6Lg",
+  api_key="333544546273919",
+  api_secret="cJYbtNm8CvU10dtIslrVr8Odfoc",
   secure =True,
 )
 # Email configurations remember to install python-decouple
